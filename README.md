@@ -2,6 +2,10 @@
 
 Here you will find all the resources I mentionned in the video! To find all the datasets to download, click on [the pandas folder](https://github.com/peculiar-polymath/intro-to-pandas/tree/master/pandas). Moreover, instructions on how to **install pandas** is included here.
 
+If you need help with any part of the video, feel free to join my Discord server and I will attempt to address your concerns!
+
+**Discord Link:** https://discord.gg/ZbQkznC
+
 # Download Links
 **Python Download:** https://www.python.org/downloads/
 
